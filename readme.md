@@ -1,4 +1,4 @@
-# Basic E-commerce application
+# landing page using tailwand CSS 
 
 This is a landing page to learn how to implement tailwind
 
